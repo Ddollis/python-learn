@@ -3,6 +3,7 @@ print a
 
 name = 'qiNdi'
 print name.lower()
+print name
 print name.upper()
 print name[0].upper() + name[1:].lower()
 print name.title()

@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="404dc385-bdaa-4713-85fd-65b98733f928" name="Default Changelist" comment="push">
+      <change afterPath="$PROJECT_DIR$/DL/test.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DL/00hello.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DL/00hello.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_learn$case3.coverage" NAME="case3 Coverage Results" MODIFIED="1554725631392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python从入门到实践" />
+    <SUITE FILE_PATH="coverage/python_learn$python_learn.coverage" NAME="python-learn Coverage Results" MODIFIED="1554994000214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/常用数据挖掘算法/kNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>K_RIGHT</find>
+      <find>ship_hit</find>
+      <find>check_play</find>
+      <find>check</find>
+      <find>check_b</find>
+      <find>update</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/python从入门到实践/case9.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/case11.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/city_function.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/test_cities.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/employee.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/test_emp.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/alien_invasion/setting.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/alien_invasion/alIen_invasion.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/alien_invasion/bullet.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/alien_invasion/Alien.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/game_stats.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/alien_invasion/Ship.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/alien_invasion/button.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/alien_invasion/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/alien_invasion/game_functions.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/alien_invasion/settings.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/alien_invasion/game_stats.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/alien_invasion/scoreboard.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/matplotlib/mpl_squares.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/matplotlib/scantter_squares.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/matplotlib/15-1.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/matplotlib/random_walk.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/matplotlib/rw_visual.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/pygal/die.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/pygal/die_visual.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/pygal/dice_visual.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/data/highs_lows.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/data/countries.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/data/country_codes.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/data/americas.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/data/world_population.py" />
+        <option value="$PROJECT_DIR$/python从入门到实践/api/python_repos.py" />
+        <option value="$PROJECT_DIR$/ML基础/test01.ipynb" />
+        <option value="$PROJECT_DIR$/ML基础/test02.ipynb" />
+        <option value="$PROJECT_DIR$/常用数据挖掘算法/电影分类.py" />
+        <option value="$PROJECT_DIR$/常用数据挖掘算法/film.py" />
+        <option value="$PROJECT_DIR$/常用数据挖掘算法/data.txt" />
+        <option value="$PROJECT_DIR$/常用数据挖掘算法/decision_tree.py" />
+        <option value="$PROJECT_DIR$/ML/kNN.ipynb" />
+        <option value="$PROJECT_DIR$/ML/test2.py" />
+        <option value="$PROJECT_DIR$/ML/kNN.py" />
+        <option value="$PROJECT_DIR$/ML/ch01-kNN/kNN.py" />
+        <option value="$PROJECT_DIR$/ML/ch02-Decision-Tree/trees.py" />
+        <option value="$PROJECT_DIR$/零基础kaggle/Chapter_1/Chapter_1.4.ipynb" />
+        <option value="$PROJECT_DIR$/零基础kaggle/Chapter_1/Chapter_1.1.ipynb" />
+        <option value="$PROJECT_DIR$/零基础kaggle/Chapter_2/Chapter_2.1.1.1.ipynb" />
+        <option value="$PROJECT_DIR$/gesture_recognition/gesture_recognition/get_samples.py" />
+        <option value="$PROJECT_DIR$/零基础kaggle/Chapter_2/Chapter_2.1.1.2.ipynb" />
+        <option value="$PROJECT_DIR$/gesture_recognition/gesture_recognition/ges_playgame.py" />
+        <option value="$PROJECT_DIR$/常用数据挖掘算法/kNN.py" />
+        <option value="$PROJECT_DIR$/DL/00hello.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="735" />
+    <option name="width" value="980" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\python-learn\DL" />
+      <recent name="C:\Users\Administrator\Desktop\python-learn" />
+      <recent name="C:\Users\Administrator\Desktop\python-learn\零基础kaggle" />
+      <recent name="C:\Users\Administrator\Desktop\python-learn\ML" />
+      <recent name="C:\Users\Administrator\Desktop\python-learn\python从入门到实践\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\python-learn\ML\ch01-kNN" />
+      <recent name="C:\Users\Administrator\Desktop\python-learn\python从入门到实践\alien_invasion" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.trees">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="python-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="case3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python从入门到实践" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python从入门到实践/case3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ch02-Decision-Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ch02-Decision-Tree/trees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.trees" />
+        <item itemvalue="Python.case3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="404dc385-bdaa-4713-85fd-65b98733f928" name="Default Changelist" comment="" />
+      <created>1554703509166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554703509166</updated>
+      <workItem from="1554703510890" duration="3066000" />
+      <workItem from="1554721819062" duration="11275000" />
+      <workItem from="1554790511746" duration="9604000" />
+      <workItem from="1554881889433" duration="49670000" />
+      <workItem from="1555040164363" duration="5467000" />
+      <workItem from="1555073968812" duration="2007000" />
+      <workItem from="1555076647337" duration="10482000" />
+      <workItem from="1555127215081" duration="12003000" />
+      <workItem from="1555154956432" duration="9955000" />
+      <workItem from="1555247360191" duration="657000" />
+      <workItem from="1555248037234" duration="10492000" />
+      <workItem from="1555293508633" duration="6760000" />
+      <workItem from="1555310041481" duration="9977000" />
+      <workItem from="1555342726952" duration="1538000" />
+      <workItem from="1555344435835" duration="3044000" />
+      <workItem from="1555349313767" duration="239000" />
+      <workItem from="1555351170575" duration="1279000" />
+      <workItem from="1555376579127" duration="1264000" />
+      <workItem from="1555378679567" duration="61000" />
+      <workItem from="1555390034885" duration="1776000" />
+      <workItem from="1555409339641" duration="1751000" />
+    </task>
+    <task id="LOCAL-00001" summary="test1">
+      <created>1554735554033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554735554033</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test1">
+      <created>1554735666124</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554735666125</updated>
+    </task>
+    <task id="LOCAL-00003" summary="飞机大战游戏开始">
+      <created>1554885248967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554885248967</updated>
+    </task>
+    <task id="LOCAL-00004" summary="飞船完成">
+      <created>1554897340544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554897340544</updated>
+    </task>
+    <task id="LOCAL-00005" summary="飞船完成">
+      <created>1554953223880</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554953223880</updated>
+    </task>
+    <task id="LOCAL-00006" summary="matplotlib完成">
+      <created>1554971775780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554971775780</updated>
+    </task>
+    <task id="LOCAL-00007" summary="数据可视化">
+      <created>1554982145973</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554982145973</updated>
+    </task>
+    <task id="LOCAL-00008" summary="finish">
+      <created>1554984075486</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554984075486</updated>
+    </task>
+    <task id="LOCAL-00009" summary="finish">
+      <created>1555088463045</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555088463045</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <created>1555150370450</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1555150370450</updated>
+    </task>
+    <task id="LOCAL-00011" summary="push">
+      <created>1555166246957</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1555166246957</updated>
+    </task>
+    <task id="LOCAL-00012" summary="push">
+      <created>1555247931951</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555247931951</updated>
+    </task>
+    <task id="LOCAL-00013" summary="push">
+      <created>1555247952267</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1555247952267</updated>
+    </task>
+    <task id="LOCAL-00014" summary="push">
+      <created>1555255713470</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1555255713470</updated>
+    </task>
+    <task id="LOCAL-00015" summary="push">
+      <created>1555295324724</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1555295324725</updated>
+    </task>
+    <task id="LOCAL-00016" summary="push">
+      <created>1555336275989</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1555336275989</updated>
+    </task>
+    <task id="LOCAL-00017" summary="push">
+      <created>1555408936983</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1555408936983</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="152367000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908593" weight="0.13873994" />
+      <window_info id="Structure" order="1" sideWeight="0.5009141" side_tool="true" weight="0.28787878" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32909605" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3282123" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5027548" side_tool="true" weight="0.22740114" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3952514" />
+      <window_info anchor="bottom" x="790" y="642" width="724" height="162" id="Terminal" order="12" sideWeight="0.4972452" weight="0.34776536" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="145" height="640" id="Documentation" order="7" side_tool="true" weight="0.67310345" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908593" visible="true" weight="0.13873994" />
+      <window_info id="Structure" order="1" sideWeight="0.5009141" side_tool="true" weight="0.28787878" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32909605" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3282123" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5027548" side_tool="true" weight="0.22740114" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.3952514" />
+      <window_info anchor="bottom" x="790" y="642" width="724" height="162" id="Terminal" order="12" sideWeight="0.4972452" visible="true" weight="0.34776536" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="145" height="640" id="Documentation" order="7" side_tool="true" weight="0.67310345" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test1" />
+    <MESSAGE value="飞机大战游戏开始" />
+    <MESSAGE value="飞船完成" />
+    <MESSAGE value="matplotlib完成" />
+    <MESSAGE value="数据可视化" />
+    <MESSAGE value="finish" />
+    <MESSAGE value="test" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/testDigits/0_13.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/kNN.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/test2.py" />
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/0_188.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/0_0.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/6_40.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/7_175.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/0_34.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/0_18.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/0_4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/0_10.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/0_3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/0_17.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/0_35.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/0_50.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/trainingDigits/0_65.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-762174762/operator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Machine-Learning/ch01-KNN/KNN_algr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding>
+            <element signature="e#93#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch01-kNN/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine-Learning/ch02-Decision-Tree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine-Learning/ch02-Decision-Tree/Classify_tree.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine-Learning/ch02-Decision-Tree/Split_by_entropy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine-Learning/ch02-Decision-Tree/Cal_Entropy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#93#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine-Learning/ch02-Decision-Tree/Plot_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine-Learning/ch02-Decision-Tree/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#93#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine-Learning/ch02-Decision-Tree/Decision_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="23" selection-start-line="23" selection-end-line="55" />
+          <folding>
+            <element signature="e#92#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python从入门到实践/case3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/ch02-Decision-Tree/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine-Learning/ch02-Decision-Tree/lenses.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/零基础kaggle/Chapter_1/.ipynb_checkpoints/Chapter_1.4-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/零基础kaggle/Chapter_1/.ipynb_checkpoints/Chapter_1.1-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/零基础kaggle/Chapter_1/Chapter_1.4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/零基础kaggle/Datasets/Breast-Cancer/breast-cancer-train.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/零基础kaggle/Datasets/Breast-Cancer/breast-cancer-test.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/常用数据挖掘算法/decision_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <element signature="e#15#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/零基础kaggle/Chapter_1/Chapter_1.1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/零基础kaggle/Chapter_2/.ipynb_checkpoints/Chapter_2.1.2-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/零基础kaggle/Chapter_2/Chapter_2.1.1.1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/零基础kaggle/Chapter_2/Chapter_2.1.1.3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/零基础kaggle/Chapter_2/Chapter_2.1.1.2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gesture_recognition/gesture_recognition/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gesture_recognition/gesture_recognition/ges_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1518">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#17#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gesture_recognition/gesture_recognition/ges_playgame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#17#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gesture_recognition/gesture_recognition/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1769">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#16#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gesture_recognition/gesture_recognition/get_samples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="49" column="23" lean-forward="true" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/tensorflow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/常用数据挖掘算法/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DL/00hello.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
